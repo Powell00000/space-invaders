@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb81dfcb9b1460b4ba315a1f0420bc96, type: 3}
+  m_Name: Wave Holder 2
+  m_EditorClassIdentifier: 
+  gridParent: {fileID: 4496461293332584121, guid: c09e2c7a67aea074ba53d12bfb8ed46a,
+    type: 3}
+  autoPositionRows: 0
+  miniBossCount: 1
